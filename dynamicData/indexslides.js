@@ -1,10 +1,10 @@
 var XSYD_IndexSlides = {
     slides: [
         {
-            backgroundImage: "static/slidesResources/slide1.jpg",
+            backgroundImage: "static/slidesResources/FIRST-Skystone-Primary-reverse.jpg",
             en:{
-                title: '<span class="text-white">We launched our new website!</span>',
-                description: '<span class="text-white">Darbots launched its new website today, let\'s celebrate this glory moment!</span>',
+                title: '<span class="text-white">Today, we RISE!</span>',
+                description: '<span class="text-white">Darbots is excited about the new season!</span>',
                 disableArticleButton: true,
                 customButton: false,
                 customButtonURL: null,
