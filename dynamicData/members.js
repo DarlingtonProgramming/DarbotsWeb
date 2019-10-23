@@ -2,227 +2,190 @@ var XSYD_MemberInfos = {
     memberlist: [
         {
             //AuthorID: 0,
-            cn:{
-                displayName: "老秋风",
-                role: "团队负责人",
-                skills: "网页前端, PHP, C++, Arduino, Linux运维"
-            },
             en:{
-                displayName: "Windy",
-                role: "Team Founder",
-                skills: "Website Front-end, PHP, C++, Arduino, Linux Operation"
+                displayName: "Alfred Dai",
+                role: "CAD",
+                skills: "Fusion 360"
             },
-            github: "ToiletCommander",
-            qq: "1745500559",
-            portrait: "1745500559.jpg"
+            github: null,
+            qq: null,
+            portrait: "adai.jpg"
         },
         {
             //AuthorID: 1,
-            cn:{
-                displayName: "Wey",
-                role: "成员",
-                skills: "Arduino, C++, 文档"
-            },
             en:{
-                displayName: "Wey",
-                role: "Member",
-                skills: "Arduino, C++, Documents"
+                displayName: "Aaron Ding",
+                role: "Building",
+                skills: "Java, Mechanical Design"
             },
-            github: "weypro",
-            qq: "2284938880",
-            portrait: "2284938880.jpg"
+            github: null,
+            qq: null,
+            portrait: "ading.jpg"
         },
         {
             //AuthorID: 2,
-            cn:{
-                displayName: "沉默",
-                role: "成员",
-                skills: "网页前端, PHP, 51单片机"
-            },
             en:{
-                displayName: "Silent",
-                role: "Member",
-                skills: "Website Front-end, PHP, 51MCU"
+                displayName: "Alek Wang",
+                role: "Building, Programming",
+                skills: "Java, Mechanical Design"
             },
-            github: "cmjang",
-            qq: "1924286463",
-            portrait: "1924286463.jpg"
+            github: "BDivere",
+            qq: null,
+            portrait: "alwang.jpg"
         },
         {
             //AuthorID: 3,
-            cn:{
-                displayName: "迪莫",
-                role: "成员",
-                skills: "C#, Arduino, Linux运维"
-            },
             en:{
-                displayName: "Dimo Jang",
-                role: "Member",
-                skills: "C#, Arduino, Linux Operation"
+                displayName: "David Cao",
+                role: "Team Captain",
+                skills: "Author of the Darbots-FTC-Lib, Java, C++"
             },
-            github: "dimojang",
-            qq: "2529874419",
-            portrait: "2529874419.jpg"
+            github: "ToiletCommander",
+            qq: null,
+            portrait: "dcao.jpg"
         },
         {
             //AuthorID: 4,
-            cn:{
-                displayName: "小小白",
-                role: "成员",
-                skills: "C++, Python, 前端"
-            },
             en:{
-                displayName: "Little White",
-                role: "Member",
-                skills: "C++, Python, Website Front-end"
+                displayName: "Hogan Guo",
+                role: "Building, Research",
+                skills: "Mechanical Design"
             },
-            github: "Caoblocks",
-            qq: "318515692",
-            portrait: "318515692.jpg"
+            github: null,
+            qq: null,
+            portrait: "hguo.jpg"
         },
         {
             //AuthorID: 5,
-            cn:{
-                displayName: "流星",
-                role: "成员",
-                skills: "网页前端, PHP, Linux运维"
-            },
             en:{
-                displayName: "Meteoroid",
-                role: "Member",
-                skills: "Website Front-end, PHP, Linux Operation"
+                displayName: "Lauren Botwinik",
+                role: "Building, Business",
+                skills: "Mechanical Design, Business Strategies, Community Outreach"
             },
-            github: "GuoHaoLan",
-            qq: "1156521060",
-            portrait: "1156521060.jpg"
+            github: null,
+            qq: null,
+            portrait: "lbotwinik.jpg"
         },
         {
             //AuthorID: 6,
-            cn:{
-                displayName: "幻杀",
-                role: "成员",
-                skills: "C++"
-            },
             en:{
-                displayName: "Assassin",
-                role: "Member",
-                skills: "C++"
+                displayName: "Lillian Li",
+                role: "Business, Brand",
+                skills: "Business Strategies, Brand Design, Community Outreach"
             },
-            github: "EquationWalker",
-            qq: "1579664489",
-            portrait: "1579664489.jpg"
+            github: null,
+            qq: null,
+            portrait: "lli.jpg"
         },
         {
             //AuthorID: 7,
-            cn:{
-                displayName: "Max",
-                role: "成员",
-                skills: "C++, C#, OIER, 嵌入式"
-            },
             en:{
-                displayName: "Max",
-                role: "Member",
-                skills: "C++, C#, OIER, Embedded"
+                displayName: "Long Truong",
+                role: "Building, Programming",
+                skills: "Java, Mechanical Design"
             },
-            github: "MaxRel",
-            qq: "2716790565",
-            portrait: "2716790565.jpg"
+            github: null,
+            qq: null,
+            portrait: "ltruong.jpg"
         },
         {
             //AuthorID: 8,
-            cn:{
-                displayName: "Raku洛",
-                role: "成员",
-                skills: "平面设计, 文档"
-            },
             en:{
-                displayName: "Raku Luo",
-                role: "Member",
-                skills: "Flat Design, Documents"
+                displayName: "Micah Lloyd",
+                role: "Building",
+                skills: "Mechanical Design"
             },
-            github: "AomiRaku",
-            qq: "1664147500",
-            portrait: "1664147500.jpg"
+            github: null,
+            qq: null,
+            portrait: "mlloyd.jpg"
         },
         {
             //AuthorID: 9,
-            cn:{
-                displayName: "船歌",
-                role: "成员",
-                skills: "网页前端, PHP, C++"
-            },
             en:{
-                displayName: "Chuange",
-                role: "Member",
-                skills: "Website Front-end, PHP, C++"
+                displayName: "Mason Wu",
+                role: "Programming",
+                skills: "Java"
             },
-            github: "wi1dcard",
-            qq: "122078472",
-            portrait: "122078472.jpg"
+            github: "mmmmason",
+            qq: null,
+            portrait: "mwu.jpg"
         },
         {
             //AuthorID: 10,
-            cn:{
-                displayName: "葫芦娃",
-                role: "成员",
-                skills: "Java, 网页前端"
-            },
             en:{
-                displayName: "Calabash",
-                role: "Member",
-                skills: "Java, Website Front-end"
+                displayName: "Melody Zhao",
+                role: "Business, Research",
+                skills: "Business Strategies, Community Outreach"
             },
-            github: "ansiiw",
-            qq: "1294297705",
-            portrait: "1294297705.jpg"
+            github: null,
+            qq: null,
+            portrait: "mzhao.jpg"
         },
         {
             //AuthorID: 11,
-            cn:{
-                displayName: "仅一凡人",
-                role: "成员",
-                skills: "绘画, 设计, 网页前端"
-            },
             en:{
-                displayName: "OneRice",
-                role: "Member",
-                skills: "Drawing, Design, Website Front-end"
+                displayName: "Olachi Mbakwe",
+                role: "Building",
+                skills: "Mechanical Design"
             },
-            github: "toyiff",
-            qq: "1651429093",
-            portrait: "1651429093.jpg"
+            github: null,
+            qq: null,
+            portrait: "ombakwe.jpg"
         },
         {
             //AuthorID: 12,
-            cn:{
-                displayName: "Zhe_Learn",
-                role: "成员",
-                skills: "C++, Java"
-            },
             en:{
-                displayName: "Zhe_Learn",
-                role: "Member",
-                skills: "C++, Java"
+                displayName: "Rodgers Wang",
+                role: "Building, Research",
+                skills: "Mechanical Design"
             },
-            github: "zHElEARN",
-            qq:"501088732",
-            portrait: "501088732.jpg"
+            github: null,
+            qq: null,
+            portrait: "rowang.jpg"
         },
         {
             //AuthorID: 13,
-            cn:{
-                displayName: "阿淼",
-                role: "成员",
-                skills: "Java, 安卓, 前端"
-            },
             en:{
-                displayName: "MXPlayer",
-                role: "Member",
-                skills: "Java, Android, Front-end"
+                displayName: "Sam Feng",
+                role: "Building, Research",
+                skills: "Mechanical Design"
             },
-            github: "MXAM",
-            qq: "765519741",
-            portrait: "765519741.jpg"
+            github: null,
+            qq: null,
+            portrait: "sfeng.jpg"
+        },
+        {
+            //AuthorID: 14,
+            en:{
+                displayName: "Shannon Li",
+                role: "Promotion",
+                skills: "Adobe After Effects, Adobe Premiere Pro"
+            },
+            github: null,
+            qq: null,
+            portrait: "sli.jpg"
+        },
+        {
+            //AuthorID: 15,
+            en:{
+                displayName: "Sharon Sun",
+                role: "Business, Research",
+                skills: "Business Strategies, Mechanical Design"
+            },
+            github: null,
+            qq: null,
+            portrait: "ssun.jpg"
+        },
+        {
+            //AuthorID: 12,
+            en:{
+                displayName: "Ziyi Yang",
+                role: "Business, Research",
+                skills: "Business Strategies, Mechanical Design"
+            },
+            github: null,
+            qq: null,
+            portrait: "zyang.jpg"
         }
     ],
     portraitBaseURL: "static/TX/"
