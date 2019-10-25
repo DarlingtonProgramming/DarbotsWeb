@@ -29,6 +29,16 @@ var XSYD_News = {
                 isURLAbsolute: false,
                 AuthorID: 3
             }
+        },
+        { //articleID = 3
+            en:{
+                title: "Darbots released Driver Station Utilities",
+                briefDescription: "Darbots released its utilities for upgrading Driver Station APP versions without connecting to a Wifi Network",
+                articleURL: "3_Release_Of_DS_Utilities.html",
+                showOnIndexNews: true,
+                isURLAbsolute: false,
+                AuthorID: 3
+            }
         }
     ],
     articlesBaseURL: "dynamicData/articles/"
