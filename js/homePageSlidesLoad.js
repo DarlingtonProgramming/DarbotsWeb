@@ -38,9 +38,9 @@ function loadIndexSlides(bannerSelector,prevBtnSelector,nextBtnSelector,swipeCon
             BackgroundCodes +
                 '<div class="d-flex align-items-center justify-content-center home-slide-container">' +
                     '<div class="container">' +
-                        '<h2>' + ThisSlideLangInfo.title + '</h2>' +
-                        '<p class="pt-2">' + ThisSlideLangInfo.description + '</p>' +
-                        '<p class="pt-3">' + ButtonCodes + '</p>' +
+                        '<h2 class="text-right">' + ThisSlideLangInfo.title + '</h2>' +
+                        '<p class="pt-2 text-right">' + ThisSlideLangInfo.description + '</p>' +
+                        '<p class="pt-3 text-right">' + ButtonCodes + '</p>' +
                     '</div>' +
                 '</div>' +
             '</div>'
