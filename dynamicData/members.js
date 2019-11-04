@@ -169,7 +169,7 @@ var XSYD_MemberInfos = {
             //AuthorID: 15,
             en:{
                 displayName: "Rodgers Wang",
-                role: "Building, Research",
+                role: "Building Lead, Research",
                 skills: "Mechanical Design"
             },
             github: null,
