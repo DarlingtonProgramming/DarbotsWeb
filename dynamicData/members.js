@@ -65,7 +65,7 @@ var XSYD_MemberInfos = {
             github: null,
             qq: null,
             portrait: "bschrimsher.jpg"
-        }
+        },
         {
             //AuthorID: 6,
             en:{
