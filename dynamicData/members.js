@@ -3,6 +3,28 @@ var XSYD_MemberInfos = {
         {
             //AuthorID: 0,
             en:{
+                displayName: "Owen Kinney",
+                role: "Mentor",
+                skills: "Head Coach"
+            },
+            github: null,
+            qq: null,
+            portrait: "okinney.jpg"
+        },
+        {
+            //AuthorID: 1,
+            en:{
+                displayName: "Taylor Owens",
+                role: "Mentor",
+                skills: "Assistant Coach"
+            },
+            github: null,
+            qq: null,
+            portrait: "towens.jpg"
+        },
+        {
+            //AuthorID: 2,
+            en:{
                 displayName: "Alfred Dai",
                 role: "CAD",
                 skills: "Fusion 360"
@@ -12,7 +34,7 @@ var XSYD_MemberInfos = {
             portrait: "adai.jpg"
         },
         {
-            //AuthorID: 1,
+            //AuthorID: 3,
             en:{
                 displayName: "Aaron Ding",
                 role: "Building",
@@ -23,7 +45,7 @@ var XSYD_MemberInfos = {
             portrait: "ading.jpg"
         },
         {
-            //AuthorID: 2,
+            //AuthorID: 4,
             en:{
                 displayName: "Alek Wang",
                 role: "Building, Programming",
@@ -34,7 +56,18 @@ var XSYD_MemberInfos = {
             portrait: "alwang.jpg"
         },
         {
-            //AuthorID: 3,
+            //AuthorID: 5,
+            en:{
+                displayName: "Burke Schrimster",
+                role: "Building",
+                skills: "Mechanical Design"
+            },
+            github: null,
+            qq: null,
+            portrait: "bschrimsher.jpg"
+        }
+        {
+            //AuthorID: 6,
             en:{
                 displayName: "David Cao",
                 role: "Team Captain",
@@ -45,7 +78,7 @@ var XSYD_MemberInfos = {
             portrait: "dcao.jpg"
         },
         {
-            //AuthorID: 4,
+            //AuthorID: 7,
             en:{
                 displayName: "Hogan Guo",
                 role: "Building, Research",
@@ -56,7 +89,7 @@ var XSYD_MemberInfos = {
             portrait: "hguo.jpg"
         },
         {
-            //AuthorID: 5,
+            //AuthorID: 8,
             en:{
                 displayName: "Lauren Botwinik",
                 role: "Building, Business",
@@ -67,7 +100,7 @@ var XSYD_MemberInfos = {
             portrait: "lbotwinik.jpg"
         },
         {
-            //AuthorID: 6,
+            //AuthorID: 9,
             en:{
                 displayName: "Lillian Li",
                 role: "Business, Brand",
@@ -78,7 +111,7 @@ var XSYD_MemberInfos = {
             portrait: "lli.jpg"
         },
         {
-            //AuthorID: 7,
+            //AuthorID: 10,
             en:{
                 displayName: "Long Truong",
                 role: "Building, Programming",
@@ -89,7 +122,7 @@ var XSYD_MemberInfos = {
             portrait: "ltruong.jpg"
         },
         {
-            //AuthorID: 8,
+            //AuthorID: 11,
             en:{
                 displayName: "Micah Lloyd",
                 role: "Building",
@@ -100,7 +133,7 @@ var XSYD_MemberInfos = {
             portrait: "mlloyd.jpg"
         },
         {
-            //AuthorID: 9,
+            //AuthorID: 12,
             en:{
                 displayName: "Mason Wu",
                 role: "Programming",
@@ -111,7 +144,7 @@ var XSYD_MemberInfos = {
             portrait: "mwu.jpg"
         },
         {
-            //AuthorID: 10,
+            //AuthorID: 13,
             en:{
                 displayName: "Melody Zhao",
                 role: "Business, Research",
@@ -122,7 +155,7 @@ var XSYD_MemberInfos = {
             portrait: "mzhao.jpg"
         },
         {
-            //AuthorID: 11,
+            //AuthorID: 14,
             en:{
                 displayName: "Olachi Mbakwe",
                 role: "Building",
@@ -133,7 +166,7 @@ var XSYD_MemberInfos = {
             portrait: "ombakwe.jpg"
         },
         {
-            //AuthorID: 12,
+            //AuthorID: 15,
             en:{
                 displayName: "Rodgers Wang",
                 role: "Building, Research",
@@ -144,7 +177,7 @@ var XSYD_MemberInfos = {
             portrait: "rowang.jpg"
         },
         {
-            //AuthorID: 13,
+            //AuthorID: 16,
             en:{
                 displayName: "Sam Feng",
                 role: "Building, Research",
@@ -155,7 +188,7 @@ var XSYD_MemberInfos = {
             portrait: "sfeng.jpg"
         },
         {
-            //AuthorID: 14,
+            //AuthorID: 17,
             en:{
                 displayName: "Shannon Li",
                 role: "Promotion",
@@ -166,7 +199,7 @@ var XSYD_MemberInfos = {
             portrait: "sli.jpg"
         },
         {
-            //AuthorID: 15,
+            //AuthorID: 18,
             en:{
                 displayName: "Sharon Sun",
                 role: "Business, Research",
@@ -177,7 +210,7 @@ var XSYD_MemberInfos = {
             portrait: "ssun.jpg"
         },
         {
-            //AuthorID: 12,
+            //AuthorID: 19,
             en:{
                 displayName: "Ziyi Yang",
                 role: "Business, Research",

@@ -17,7 +17,7 @@ var XSYD_News = {
                 articleURL: "1_5100RoverRuckusPromo.html",
                 showOnIndexNews: true,
                 isURLAbsolute: false,
-                AuthorID: 3
+                AuthorID: 6
             }
         },
         { //articleID = 2
@@ -27,7 +27,7 @@ var XSYD_News = {
                 articleURL: "2_SkyStoneEndOfOctAuto.html",
                 showOnIndexNews: true,
                 isURLAbsolute: false,
-                AuthorID: 3
+                AuthorID: 6
             }
         },
         { //articleID = 3
@@ -37,7 +37,7 @@ var XSYD_News = {
                 articleURL: "3_Release_Of_DS_Utilities.html",
                 showOnIndexNews: true,
                 isURLAbsolute: false,
-                AuthorID: 3
+                AuthorID: 6
             }
         }
     ],
