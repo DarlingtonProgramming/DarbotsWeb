@@ -157,7 +157,7 @@
 						}
 						var articleID = parseInt(articleIDString);
 						if(ArticleStillLoading){
-							var ArticleSuccessfulLoaded = LoadArticle("#NewsContentBox","#NewsAuthorBox",articleID,"en")
+							var ArticleSuccessfulLoaded = LoadArticle("title",""," | Darbots News","#NewsContentBox","#NewsAuthorBox",articleID,"en")
                             if(!ArticleSuccessfulLoaded){
                                 $("#NewsContent404Box").show();
                             }
